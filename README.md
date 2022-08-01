@@ -1,5 +1,9 @@
 # Summer-2022-SWE-Project
 
+Come view our site!
+
+http://movies-site-app.herokuapp.com/
+
 
 Our movie review website will allow any U.S. based user to create a free account to read, comment/rank other film reviews, 
 and add their own reviews to the website. We will then use a novel ranking system to show which comments are popularized the most 
@@ -17,18 +21,13 @@ Our movie website logo:
 
 Create an account or login with an existing account:
 
+<img width="441" alt="Createaccountfeature" src="https://user-images.githubusercontent.com/65258540/182069853-8c40d441-fe36-43b2-824d-1f1d3fb15c14.png">
 
+<img width="404" alt="LoginFeature" src="https://user-images.githubusercontent.com/65258540/182069826-a680333b-23af-4132-8762-85fc44b844d2.png">
 
-![createaccount](https://user-images.githubusercontent.com/65258540/180050272-602a5ad3-6b83-4430-951f-205c3751f2c3.PNG)
-
-
-![loginpage](https://user-images.githubusercontent.com/65258540/180050135-6710de50-ddf5-4dbf-86bc-fb55a1dfa1fc.PNG)
-
-
-http://movies-site-app.herokuapp.com/
 
 Join a community!
 
+<img width="860" alt="Socialization" src="https://user-images.githubusercontent.com/65258540/182069978-956ec0e9-f5f7-4e6b-b4b9-490d16531cfc.png">
 
 
-![community](https://user-images.githubusercontent.com/65258540/180050481-e034fe17-813d-466c-9b9b-891d035119aa.PNG)
